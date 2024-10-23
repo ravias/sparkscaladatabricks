@@ -1,5 +1,5 @@
 // Databricks notebook source
-println("Notebook -- 1")
+println("Notebook 1")
 
 // COMMAND ----------
 
