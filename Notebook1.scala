@@ -1,5 +1,6 @@
 // Databricks notebook source
-println("Notebook 1")
+println("Notebook - 1")
+// Added a hyphen
 
 // COMMAND ----------
 
